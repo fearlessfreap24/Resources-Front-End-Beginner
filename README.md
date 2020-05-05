@@ -1,3 +1,4 @@
+## cloned for Galvanize/vetsintech class
 # The most essential list of resources for Front-End beginners (🇺🇸 🇬🇧 & 🇫🇷)
 
 [![Join the chat at https://gitter.im/sky-starter-kit/Lobby][gitter-image]][gitter-url] [![Contributors](https://img.shields.io/github/contributors/thedaviddias/Resources-Front-End-Beginner.svg)](https://github.com/thedaviddias/Resources-Front-End-Beginner/graphs/contributors)
